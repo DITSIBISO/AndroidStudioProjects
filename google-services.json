@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "263310463862",
+    "firebase_url": "https://beawareapp-251d9.firebaseio.com",
+    "project_id": "beawareapp-251d9",
+    "storage_bucket": "beawareapp-251d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263310463862:android:a55b12d0000bf9a5",
+        "android_client_info": {
+          "package_name": "com.example.android.beawareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263310463862-20dvmbkusjb7ick33f8jdgv98tcd9rg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.beawareapp",
+            "certificate_hash": "72e78c85f0fe083832b8bfe91aea44719aef2825"
+          }
+        },
+        {
+          "client_id": "263310463862-rn3m818ac1juiebif5l9pkm47fh8cei3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5uWJxspdf93pymbpnPC5EkKf6aze_is"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263310463862-rn3m818ac1juiebif5l9pkm47fh8cei3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
